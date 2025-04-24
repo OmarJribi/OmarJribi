@@ -1,4 +1,4 @@
-# Omar Jribi - GitHub README
+# Omar Jribi - README
 
 ## About Me
 Hello! I'm **Omar Jribi**, a passionate **Software Engineer** based in Tunis, Tunisia. With a strong foundation in frontend development and software engineering principles, I strive to create efficient, scalable, and user-friendly applications. My expertise lies in modern web technologies, and I enjoy solving complex problems through innovative solutions.
